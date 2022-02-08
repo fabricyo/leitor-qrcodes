@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MeuQrCode</string>
+    <string name="app_name">Meu Leitor de QR Code</string>
     <string name="scanning">Scanning…</string>
     <string name="scan">Scanear</string>
     <string name="waiting_dots">…</string>
