@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuQrCode</string>
+    <string name="scanning">Scanning…</string>
+    <string name="scan">Scanear</string>
+    <string name="waiting_dots">…</string>
+    <string name="image">Image</string>
+</resources>
